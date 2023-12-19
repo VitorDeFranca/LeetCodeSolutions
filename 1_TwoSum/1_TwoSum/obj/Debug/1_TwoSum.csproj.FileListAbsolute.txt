@@ -1,0 +1,7 @@
+C:\Vitor\Projetos\LeetCode\1_TwoSum\1_TwoSum\bin\Debug\1_TwoSum.exe.config
+C:\Vitor\Projetos\LeetCode\1_TwoSum\1_TwoSum\bin\Debug\1_TwoSum.exe
+C:\Vitor\Projetos\LeetCode\1_TwoSum\1_TwoSum\bin\Debug\1_TwoSum.pdb
+C:\Vitor\Projetos\LeetCode\1_TwoSum\1_TwoSum\obj\Debug\1_TwoSum.csproj.AssemblyReference.cache
+C:\Vitor\Projetos\LeetCode\1_TwoSum\1_TwoSum\obj\Debug\1_TwoSum.csproj.CoreCompileInputs.cache
+C:\Vitor\Projetos\LeetCode\1_TwoSum\1_TwoSum\obj\Debug\1_TwoSum.exe
+C:\Vitor\Projetos\LeetCode\1_TwoSum\1_TwoSum\obj\Debug\1_TwoSum.pdb

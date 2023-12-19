@@ -1,0 +1,7 @@
+C:\Vitor\Projetos\LeetCode\7_ReverseInteger\7_ReverseInteger\bin\Debug\7_ReverseInteger.exe.config
+C:\Vitor\Projetos\LeetCode\7_ReverseInteger\7_ReverseInteger\bin\Debug\7_ReverseInteger.exe
+C:\Vitor\Projetos\LeetCode\7_ReverseInteger\7_ReverseInteger\bin\Debug\7_ReverseInteger.pdb
+C:\Vitor\Projetos\LeetCode\7_ReverseInteger\7_ReverseInteger\obj\Debug\7_ReverseInteger.csproj.AssemblyReference.cache
+C:\Vitor\Projetos\LeetCode\7_ReverseInteger\7_ReverseInteger\obj\Debug\7_ReverseInteger.csproj.CoreCompileInputs.cache
+C:\Vitor\Projetos\LeetCode\7_ReverseInteger\7_ReverseInteger\obj\Debug\7_ReverseInteger.exe
+C:\Vitor\Projetos\LeetCode\7_ReverseInteger\7_ReverseInteger\obj\Debug\7_ReverseInteger.pdb
