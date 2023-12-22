@@ -1,6 +1,6 @@
 # LeetCode
 
-Soluções em C# para desafios da plataforma LeetCode. 
+Soluções em C# para desafios da plataforma LeetCode. Sugestões e correções são sempre bem-vindas!
 
 ## Lista de desafios
 
