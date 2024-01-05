@@ -1,0 +1,7 @@
+C:\Vitor\Projetos\LeetCode\21_MergeTwoSortedLists\21_MergeTwoSortedLists\bin\Debug\21_MergeTwoSortedLists.exe.config
+C:\Vitor\Projetos\LeetCode\21_MergeTwoSortedLists\21_MergeTwoSortedLists\bin\Debug\21_MergeTwoSortedLists.exe
+C:\Vitor\Projetos\LeetCode\21_MergeTwoSortedLists\21_MergeTwoSortedLists\bin\Debug\21_MergeTwoSortedLists.pdb
+C:\Vitor\Projetos\LeetCode\21_MergeTwoSortedLists\21_MergeTwoSortedLists\obj\Debug\21_MergeTwoSortedLists.csproj.AssemblyReference.cache
+C:\Vitor\Projetos\LeetCode\21_MergeTwoSortedLists\21_MergeTwoSortedLists\obj\Debug\21_MergeTwoSortedLists.csproj.CoreCompileInputs.cache
+C:\Vitor\Projetos\LeetCode\21_MergeTwoSortedLists\21_MergeTwoSortedLists\obj\Debug\21_MergeTwoSortedLists.exe
+C:\Vitor\Projetos\LeetCode\21_MergeTwoSortedLists\21_MergeTwoSortedLists\obj\Debug\21_MergeTwoSortedLists.pdb
