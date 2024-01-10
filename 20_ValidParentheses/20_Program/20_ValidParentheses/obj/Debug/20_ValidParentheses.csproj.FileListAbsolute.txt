@@ -1,7 +1,0 @@
-C:\Vitor\Projetos\LeetCode\20_ValidParentheses\20_ValidParentheses\bin\Debug\20_ValidParentheses.exe.config
-C:\Vitor\Projetos\LeetCode\20_ValidParentheses\20_ValidParentheses\bin\Debug\20_ValidParentheses.exe
-C:\Vitor\Projetos\LeetCode\20_ValidParentheses\20_ValidParentheses\bin\Debug\20_ValidParentheses.pdb
-C:\Vitor\Projetos\LeetCode\20_ValidParentheses\20_ValidParentheses\obj\Debug\20_ValidParentheses.csproj.AssemblyReference.cache
-C:\Vitor\Projetos\LeetCode\20_ValidParentheses\20_ValidParentheses\obj\Debug\20_ValidParentheses.csproj.CoreCompileInputs.cache
-C:\Vitor\Projetos\LeetCode\20_ValidParentheses\20_ValidParentheses\obj\Debug\20_ValidParentheses.exe
-C:\Vitor\Projetos\LeetCode\20_ValidParentheses\20_ValidParentheses\obj\Debug\20_ValidParentheses.pdb

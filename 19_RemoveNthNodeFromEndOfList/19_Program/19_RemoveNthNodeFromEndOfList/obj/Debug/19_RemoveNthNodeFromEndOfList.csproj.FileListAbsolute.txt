@@ -1,7 +1,0 @@
-C:\Vitor\Projetos\LeetCode\19_RemoveNthNodeFromEndOfList\19_RemoveNthNodeFromEndOfList\bin\Debug\19_RemoveNthNodeFromEndOfList.exe.config
-C:\Vitor\Projetos\LeetCode\19_RemoveNthNodeFromEndOfList\19_RemoveNthNodeFromEndOfList\bin\Debug\19_RemoveNthNodeFromEndOfList.exe
-C:\Vitor\Projetos\LeetCode\19_RemoveNthNodeFromEndOfList\19_RemoveNthNodeFromEndOfList\bin\Debug\19_RemoveNthNodeFromEndOfList.pdb
-C:\Vitor\Projetos\LeetCode\19_RemoveNthNodeFromEndOfList\19_RemoveNthNodeFromEndOfList\obj\Debug\19_RemoveNthNodeFromEndOfList.csproj.AssemblyReference.cache
-C:\Vitor\Projetos\LeetCode\19_RemoveNthNodeFromEndOfList\19_RemoveNthNodeFromEndOfList\obj\Debug\19_RemoveNthNodeFromEndOfList.csproj.CoreCompileInputs.cache
-C:\Vitor\Projetos\LeetCode\19_RemoveNthNodeFromEndOfList\19_RemoveNthNodeFromEndOfList\obj\Debug\19_RemoveNthNodeFromEndOfList.exe
-C:\Vitor\Projetos\LeetCode\19_RemoveNthNodeFromEndOfList\19_RemoveNthNodeFromEndOfList\obj\Debug\19_RemoveNthNodeFromEndOfList.pdb

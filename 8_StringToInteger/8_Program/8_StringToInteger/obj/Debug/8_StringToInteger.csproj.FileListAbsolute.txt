@@ -1,7 +1,0 @@
-C:\Vitor\Projetos\LeetCode\8_StringToInteger\8_StringToInteger\bin\Debug\8_StringToInteger.exe.config
-C:\Vitor\Projetos\LeetCode\8_StringToInteger\8_StringToInteger\bin\Debug\8_StringToInteger.exe
-C:\Vitor\Projetos\LeetCode\8_StringToInteger\8_StringToInteger\bin\Debug\8_StringToInteger.pdb
-C:\Vitor\Projetos\LeetCode\8_StringToInteger\8_StringToInteger\obj\Debug\8_StringToInteger.csproj.AssemblyReference.cache
-C:\Vitor\Projetos\LeetCode\8_StringToInteger\8_StringToInteger\obj\Debug\8_StringToInteger.csproj.CoreCompileInputs.cache
-C:\Vitor\Projetos\LeetCode\8_StringToInteger\8_StringToInteger\obj\Debug\8_StringToInteger.exe
-C:\Vitor\Projetos\LeetCode\8_StringToInteger\8_StringToInteger\obj\Debug\8_StringToInteger.pdb

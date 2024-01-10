@@ -1,4 +1,0 @@
-C:\Vitor\Projetos\LeetCode\2_AddTwoNumbers\2_AddTwoNumbers\obj\Debug\net6.0\2_AddTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
-C:\Vitor\Projetos\LeetCode\2_AddTwoNumbers\2_AddTwoNumbers\obj\Debug\net6.0\2_AddTwoNumbers.AssemblyInfoInputs.cache
-C:\Vitor\Projetos\LeetCode\2_AddTwoNumbers\2_AddTwoNumbers\obj\Debug\net6.0\2_AddTwoNumbers.AssemblyInfo.cs
-C:\Vitor\Projetos\LeetCode\2_AddTwoNumbers\2_AddTwoNumbers\obj\Debug\net6.0\2_AddTwoNumbers.csproj.CoreCompileInputs.cache

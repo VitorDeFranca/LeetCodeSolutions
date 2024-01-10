@@ -1,7 +1,0 @@
-C:\Vitor\Projetos\LeetCode\1108_DefangingAnIPAdress\1108_DefangingAnIPAdress\bin\Debug\1108_DefangingAnIPAdress.exe.config
-C:\Vitor\Projetos\LeetCode\1108_DefangingAnIPAdress\1108_DefangingAnIPAdress\bin\Debug\1108_DefangingAnIPAdress.exe
-C:\Vitor\Projetos\LeetCode\1108_DefangingAnIPAdress\1108_DefangingAnIPAdress\bin\Debug\1108_DefangingAnIPAdress.pdb
-C:\Vitor\Projetos\LeetCode\1108_DefangingAnIPAdress\1108_DefangingAnIPAdress\obj\Debug\1108_DefangingAnIPAdress.csproj.AssemblyReference.cache
-C:\Vitor\Projetos\LeetCode\1108_DefangingAnIPAdress\1108_DefangingAnIPAdress\obj\Debug\1108_DefangingAnIPAdress.csproj.CoreCompileInputs.cache
-C:\Vitor\Projetos\LeetCode\1108_DefangingAnIPAdress\1108_DefangingAnIPAdress\obj\Debug\1108_DefangingAnIPAdress.exe
-C:\Vitor\Projetos\LeetCode\1108_DefangingAnIPAdress\1108_DefangingAnIPAdress\obj\Debug\1108_DefangingAnIPAdress.pdb
