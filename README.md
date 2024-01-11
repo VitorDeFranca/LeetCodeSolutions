@@ -10,7 +10,7 @@ Solutions using C# to LeetCode challenges. Sugestions and corrections are always
 
 | # | Desafio | Solução | Dificuldade |
 |---| ----- | -------- | ---------- |
-|1|[Two Sum](https://leetcode.com/problems/two-sum/) | [C#](./1_TwoSum/1_TwoSum/) |Fácil|
+|1|[Two Sum](https://leetcode.com/problems/two-sum/) | [C#](./1_TwoSum/1_TwoSum.cs) |Fácil|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [C#](./2_AddTwoNumbers/2_AddTwoNumbers.cs) |Médio|
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [C#](./4_MedianOfTwoSortedArrays/4_MedianOfTwoSortedArrays.cs) |Difícil|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [C#](./7_ReverseInteger/7_ReverseInteger.cs) |Médio|
