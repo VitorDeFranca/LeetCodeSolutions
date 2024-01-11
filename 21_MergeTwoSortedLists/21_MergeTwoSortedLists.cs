@@ -1,4 +1,14 @@
-/**
+// Source : https://leetcode.com/problems/merge-two-sorted-lists/
+// Author : Vitor França
+// Date   : Jan 4, 2024
+
+/********************************************************************************** 
+* 
+* Merge two sorted linked lists and return it as a new list. The new list should be 
+* made by splicing together the nodes of the first two lists.
+*               
+**********************************************************************************/
+/*
  * Definition for singly-linked list.
  * public class ListNode {
  *     public int val;
@@ -9,6 +19,7 @@
  *     }
  * }
  */
+ 
 public class Solution {
     public ListNode MergeTwoLists(ListNode list1, ListNode list2) {
         if (list1 == null && list2 == null) return null;
