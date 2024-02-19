@@ -17,6 +17,7 @@ Solutions using C# to LeetCode challenges. Sugestions and corrections are always
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [C#](./7_ReverseInteger/7_ReverseInteger.cs) |Médio|
 |8|[String To Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [C#](./8_StringToInteger/8_StringToInteger.cs) |Médio|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [C#](./9_PalindromeNumber/9_PalindromeNumber.cs) |Fácil|
+|12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [C#](./12_IntegerToRoman/12_IntegerToRoman.cs) |Médio|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [C#](./13_RomanToInteger/13_RomanToInteger.cs) |Fácil|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | [C#](./19_RemoveNthNodeFromEndOfList/19_RemoveNthNodeFromEndOfList.cs) |Médio|
 |20|[Valid Parenthesis](https://leetcode.com/problems/valid-parentheses/) | [C#](./20_ValidParentheses/20_ValidParentheses.cs) |Fácil|
