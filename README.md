@@ -23,4 +23,5 @@ Solutions using C# to LeetCode challenges. Sugestions and corrections are always
 |20|[Valid Parenthesis](https://leetcode.com/problems/valid-parentheses/) | [C#](./20_ValidParentheses/20_ValidParentheses.cs) |Fácil|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [C#](./21_MergeTwoSortedLists/21_MergeTwoSortedLists.cs) |Fácil|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C#](./26_RemoveDuplicatesFromSortedArray/26_RemoveDuplicatesFromSortedArray.cs) |Fácil|
+|27|[Remove Element](https://leetcode.com/problems/remove-element/) | [C#](./27_RemoveElement/27_RemoveElement.cs) |Fácil|
 |1108|[Defanging an IP Adress](https://leetcode.com/problems/defanging-an-ip-address/) | [C#](./1108_DefangingAnIPAdress/1108_DefangingAnIPAdress.cs) |Fácil|
