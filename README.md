@@ -25,4 +25,5 @@ Solutions using C# to LeetCode challenges. Sugestions and corrections are always
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C#](./26_RemoveDuplicatesFromSortedArray/26_RemoveDuplicatesFromSortedArray.cs) |Fácil|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/) | [C#](./27_RemoveElement/27_RemoveElement.cs) |Fácil|
 |28|[Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [C#](./28_FindTheIndexOfTheFirstOccurenceInAString/28_FindTheIndexOfTheFirstOccurenceInAString.cs) |Fácil|
+|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [C#](./35_SearchInsertPosition/35_SearchInsertPosition.cs) |Fácil|
 |1108|[Defanging an IP Adress](https://leetcode.com/problems/defanging-an-ip-address/) | [C#](./1108_DefangingAnIPAdress/1108_DefangingAnIPAdress.cs) |Fácil|
