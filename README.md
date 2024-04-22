@@ -27,6 +27,7 @@ Solutions using C# to LeetCode challenges. Sugestions and corrections are always
 |28|[Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [C#](./28_FindTheIndexOfTheFirstOccurenceInAString/28_FindTheIndexOfTheFirstOccurenceInAString.cs) |Fácil|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [C#](./35_SearchInsertPosition/35_SearchInsertPosition.cs) |Fácil|
 |53|[Length Of Last Word](https://leetcode.com/problems/length-of-last-word/) | [C#](./53_LengthOfLastWord/53_LengthOfLastWord.cs) |Fácil|
+|61|[Rotate List](https://leetcode.com/problems/rotate-list/) | [C#](./61_RotateList/61_RotateList.cs) |Médio|
 |66|[Plus One](https://leetcode.com/problems/plus-one/) | [C#](./66_PlusOne/66_PlusOne.cs) |Fácil|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [C#](./69_Sqrt(x)/69_Sqrt(x).cs) |Fácil|
 |83|[Remove Duplicates From Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [C#](./83_RemoveDuplicatesFromSortedList/83_RemoveDuplicatesFromSortedList.cs) |Fácil|
