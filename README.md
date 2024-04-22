@@ -32,4 +32,5 @@ Solutions using C# to LeetCode challenges. Sugestions and corrections are always
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [C#](./69_Sqrt(x)/69_Sqrt(x).cs) |Fácil|
 |83|[Remove Duplicates From Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [C#](./83_RemoveDuplicatesFromSortedList/83_RemoveDuplicatesFromSortedList.cs) |Fácil|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [C#](./94_BinaryTreeInorderTraversal/94_BinaryTreeInorderTraversal.cs) |Fácil|
+|100|[Same Tree](https://leetcode.com/problems/same-tree/) | [C#](./100_SameTree/100_SameTree.cs) |Fácil|
 |1108|[Defanging an IP Adress](https://leetcode.com/problems/defanging-an-ip-address/) | [C#](./1108_DefangingAnIPAdress/1108_DefangingAnIPAdress.cs) |Fácil|
