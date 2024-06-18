@@ -30,6 +30,7 @@ Solutions using C# to LeetCode challenges. Sugestions and corrections are always
 |61|[Rotate List](https://leetcode.com/problems/rotate-list/) | [C#](./61_RotateList/61_RotateList.cs) |Médio|
 |66|[Plus One](https://leetcode.com/problems/plus-one/) | [C#](./66_PlusOne/66_PlusOne.cs) |Fácil|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [C#](./69_Sqrt(x)/69_Sqrt(x).cs) |Fácil|
+|75|[Sort Colors](https://leetcode.com/problems/sort-colors/description/) | [C#](./75_SortColors/75_SortColors.cs) |Médio|
 |83|[Remove Duplicates From Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [C#](./83_RemoveDuplicatesFromSortedList/83_RemoveDuplicatesFromSortedList.cs) |Fácil|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [C#](./94_BinaryTreeInorderTraversal/94_BinaryTreeInorderTraversal.cs) |Fácil|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/) | [C#](./100_SameTree/100_SameTree.cs) |Fácil|
